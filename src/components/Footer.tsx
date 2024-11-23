@@ -17,7 +17,7 @@ export default function Footer() {
         <div>
           <div className="flex items-center gap-2 mb-4">
             <Laptop className="text-blue-400" size={32} />
-            <span className="font-bold text-xl text-white">What MacBook Should I Buy?</span>
+            <span className="font-bold text-xl text-white">Which MacBook Should I Buy?</span>
           </div>
           <p className="text-gray-400">
             Your trusted companion in finding the perfect MacBook for your needs.
