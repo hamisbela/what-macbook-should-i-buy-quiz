@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <section className="max-w-7xl mx-auto px-4 py-12">
-        <h1 className="text-4xl font-bold text-center mb-8">What MacBook Should I Buy? - Quiz</h1>
+        <h1 className="text-4xl font-bold text-center mb-8">Which MacBook Should I Buy? - Quiz</h1>
         <Quiz />
       </section>
 
@@ -13,12 +13,12 @@ export default function Home() {
         <div className="prose lg:prose-lg mx-auto">
           <div className="mb-8">
             <p className="text-lg">
-              If you're wondering, <strong>"What MacBook should I buy?"</strong>, you're not alone! Choosing the perfect MacBook can be overwhelming with several models, chip options, and configurations available. From the lightweight MacBook Air to the powerful MacBook Pro, finding the best device for your needs requires careful consideration. But don't worry – we've got you covered! Our interactive <strong>What MacBook Should I Buy? Quiz</strong> will help you narrow down your choices and find the ideal MacBook for your lifestyle.
+              If you're wondering, <strong>"Which MacBook should I buy?"</strong>, you're not alone! Choosing the perfect MacBook can be overwhelming with several models, chip options, and configurations available. From the lightweight MacBook Air to the powerful MacBook Pro, finding the best device for your needs requires careful consideration. But don't worry – we've got you covered! Our interactive <strong>What MacBook Should I Buy? Quiz</strong> will help you narrow down your choices and find the ideal MacBook for your lifestyle.
             </p>
           </div>
 
           <div className="mb-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Take the "What MacBook Should I Buy?" Quiz?</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Take the "Which MacBook Should I Buy?" Quiz?</h2>
             <p>
               With multiple MacBook models featuring different Apple Silicon chips, deciding on the right one can feel overwhelming. Whether you need a MacBook for studying, programming, content creation, or professional work, our <strong>What MacBook Should I Buy? Quiz</strong> is designed to match you with a MacBook that fits your workflow, budget, and performance requirements.
             </p>
@@ -46,7 +46,7 @@ export default function Home() {
           </div>
 
           <div className="mb-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">How the "What MacBook Should I Buy?" Quiz Works</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">How the "Which MacBook Should I Buy?" Quiz Works</h2>
             <p>
               Taking our quiz is quick and easy! Simply answer a few questions about your computing needs, preferred features, and budget, and we'll recommend the best MacBooks for you. Our recommendations are based on extensive research and real-world testing.
             </p>
@@ -65,14 +65,14 @@ export default function Home() {
           <div className="mb-8">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Trust Our MacBook Recommendations?</h2>
             <p>
-              Our team consists of Apple experts and tech enthusiasts who stay up-to-date with the latest MacBook models and features. We regularly update our <strong>What MacBook Should I Buy? Quiz</strong> to include new models and chips, ensuring you get the most current recommendations.
+              Our team consists of Apple experts and tech enthusiasts who stay up-to-date with the latest MacBook models and features. We regularly update our <strong>Which MacBook Should I Buy? Quiz</strong> to include new models and chips, ensuring you get the most current recommendations.
             </p>
           </div>
 
           <div>
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Ready to Find Your Perfect MacBook?</h2>
             <p>
-              Don't waste hours researching – let our <strong>What MacBook Should I Buy? Quiz</strong> guide you to the perfect device. Whether you're buying your first MacBook or upgrading your current one, we'll help you make an informed decision.
+              Don't waste hours researching – let our <strong>Which MacBook Should I Buy? Quiz</strong> guide you to the perfect device. Whether you're buying your first MacBook or upgrading your current one, we'll help you make an informed decision.
             </p>
           </div>
         </div>
